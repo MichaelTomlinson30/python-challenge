@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Financial Analysis-------------------Total Months: 86Total: $22564198Average Change: $-8311.105882352942Greatest Increase in Profits: Aug-16  ($1862002)Greatest Decrease in Profits: Feb-14  ($-1825558)
+=======
+
+>>>>>>> cdfaae253b2d717cbdbd3c8f22ded75024b6e138
